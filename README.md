@@ -3,6 +3,8 @@ A foundational project focused purely on structuring a multi-page website using 
 
 🌟 Project Title: HTML Website Structure Practice
 
+https://github.com/gableria21/Basic-HTML-Website/tree/main
+
 Goals of this project are:
 - Learn how to create multiple pages in a website.
 - Structure a website using HTML in a semantic way.
